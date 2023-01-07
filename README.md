@@ -1,11 +1,11 @@
-#Movie-Recommendation-System
+# Movie-Recommendation-System
 
-##Short description
+## Short description
 
 Content-Based Movie Recommendation System: An implementation using Python and NLTK to build a recommendation system based on features like plot, actors, genre, director, producers, production companies, and user ratings.
 
 
-**Detailed description**
+## Detailed description
 
 
 This project aims to build a content-based movie recommendation system using Python and NLTK. The recommendation system utilizes features such as plot, actors, genre, director, producers, production companies, and user ratings to provide users with accurate and tailored movie recommendations that match their preferences and watching history.
@@ -17,7 +17,7 @@ In this project, we start by exploring the dataset; preprocessing, extracting an
 This repository contains all the code, data, and results for the movie recommendation system.
 
 
-**Result**
+## Result
 
 
-In comparing the recommendations of two recommendation models for movies similar to Spider-Man 3, we can see that Model 1's suggestions, such as "Not Easily Broken" and "Arachnophobia," lacks accuracy as they are actually drama/romance and horror movies, respectively, both lacking similarity to Spider-Man 3. Even though "Arachnophobia" contains keyword Spider, it doesn't share general similarity in perspective of genre or plot. In contrast, Model 2 recommends more accurate choices, such as Hulk, which shares similar genre, plot, and other features like a Superhero movie. Therefore, Model 2 is a more accurate and effective recommendation model.
+In comparing the recommendations of two recommendation models for movies similar to Spider-Man 3, we can see that Model 1's suggestions, such as "Not Easily Broken" and "Arachnophobia," lacks accuracy as they are actually drama/romance and horror movies, respectively, both lacking similarity to Spider-Man 3. Even though "Arachnophobia" contains keyword Spider, it doesn't share general similarity in perspective of genre or plot. In contrast, Model 2 recommends more accurate choices, such as Hulk, which shares similar genre, plot, and other features like a Superhero movie. Therefore, **Model 2 is a more accurate and effective recommendation model.**
