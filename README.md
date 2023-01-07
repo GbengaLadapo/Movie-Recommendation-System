@@ -21,6 +21,7 @@ This repository contains all the code, data, and results for the movie recommend
 
 Two models were built. They were both asked to generate recommendations or movies similar to Spider-Man 3. Here are the recommendations and cosine similarities of the two models:
 Model 1
+
 ![Alt Text](https://github.com/GbengaLadapo/Movie-Recommendation-System/blob/3a1385c727c29a66fa50c9e88bfef2d1f7045633/model%201.png)
 
 
