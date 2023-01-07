@@ -21,7 +21,8 @@ This repository contains all the code, data, and results for the movie recommend
 
 Two models were built. They were both asked to generate recommendations or movies similar to Spider-Man 3. Here are the recommendations and cosine similarities of the two models:
 Model 1
-![Alt text](./model 1.png)
+![Alt Text](https://github.com/GbengaLadapo/Movie-Recommendation-System/blob/3a1385c727c29a66fa50c9e88bfef2d1f7045633/model%201.png)
+
 
 
 In comparing the recommendations of two recommendation models for movies similar to Spider-Man 3, we can see that Model 1's suggestions, such as "Not Easily Broken" and "Arachnophobia," lacks accuracy as they are actually drama/romance and horror movies, respectively, both lacking similarity to Spider-Man 3. Even though "Arachnophobia" contains keyword Spider, it doesn't share general similarity in perspective of genre or plot. In contrast, Model 2 recommends more accurate choices, such as Hulk, which shares similar genre, plot, and other features like a Superhero movie. Therefore, **Model 2 is a more accurate and effective recommendation model.**
