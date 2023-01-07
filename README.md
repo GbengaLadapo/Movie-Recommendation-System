@@ -14,7 +14,7 @@ The system leverages Natural Language Processing (NLP) techniques using NLTK, al
 
 In this project, we start by exploring the dataset; preprocessing, extracting and vectorizing features, training a few recommendation models utilising NLP techniques like TF-IDF along with Cosine similarity, and tuning hyperparameters to achieve the most accurate recommendations possible. We then evaluate our models on their ability to provide accurate and meaningful recommendations utilizing appropriate evaluation metric.
 
-This repository contains all the code, data, and results for the movie recommendation system.
+This repository contains all the code, data, and results for the movie recommendation system. Due to the large size of the data and the limited storage of github, the dataset can be found with this [link](https://drive.google.com/drive/folders/1ogZUmVyVTL6YmvZM3HTyNODzYTT3p8xm?usp=sharing).
 
 
 ## Result
